@@ -44,7 +44,7 @@ button{
   td{
     padding: 20px ;
     text-align: left;
-    border-bottom: 2px solid gray
+    /* border-bottom: 2px solid gray */
     
   }
   #cryptoTable{
@@ -55,3 +55,4 @@ button{
     padding-right: 0;
   }
   
+
